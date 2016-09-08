@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YKPlayerPluginSDK.iml" filepath="$PROJECT_DIR$/YKPlayerPluginSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youku_player_plugin_sdk/youku_player_plugin_sdk.iml" filepath="$PROJECT_DIR$/youku_player_plugin_sdk/youku_player_plugin_sdk.iml" />
+    </modules>
+  </component>
+</project>
